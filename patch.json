@@ -116,6 +116,9 @@
 		},
 		"Scarmaker": {
 			"FlipDuplicate": true
+		},
+		"Nissa, Steward of Elements" : {
+			"Loyalty":  "X"
 		}
 	},
 
