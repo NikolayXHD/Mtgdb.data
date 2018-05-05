@@ -119,37 +119,49 @@
 		},
 		"Nissa, Steward of Elements" : {
 			"Loyalty":  "X"
+		},
+		"B.F.M. (Big Furry Monster)": {
+			"Type": "The Biggest, Baddest, Nastiest,",
+			"Types": ["The", "Biggest", "Baddest", "Nastiest"],
+			"Subtypes": ["The", "Biggest", "Baddest", "Nastiest"],
+			"OriginalType": "Summon — The Biggest, Baddest, Nastiest,"
+		},
+		"B.F.M. (Big Furry Monster, Right Side)": {
+			"Type": "Scariest Creature You’ll Ever See",
+			"Types": ["Scariest", "Creature", "You’ll", "Ever", "See"],
+			"Subtypes": ["Scariest", "Creature", "You’ll", "Ever", "See"],
+			"OriginalType": "Scariest Creature You’ll Ever See"
 		}
 	},
 
 	"Legality": {
 		"Ixalan Block": {
-			"Sets": { "Add": ["RIX"], "Remove": [] },
+			"Sets": { "Add": [], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
 			"Restricted": { "Add": [], "Remove": [] }
 		},
 		"Standard": {
-			"Sets": { "Add": ["RIX"], "Remove": [] },
+			"Sets": { "Add": ["RIX", "DOM"], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
 			"Restricted": { "Add": [], "Remove": [] }
 		},
 		"Modern": {
-			"Sets": { "Add": ["RIX"], "Remove": [] },
+			"Sets": { "Add": ["DOM"], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
 			"Restricted": { "Add": [], "Remove": [] }
 		},
 		"Commander": {
-			"Sets": { "Add": ["RIX"], "Remove": [] },
+			"Sets": { "Add": ["DOM"], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
 			"Restricted": { "Add": [], "Remove": [] }
 		},
 		"Legacy": {
-			"Sets": { "Add": ["RIX"], "Remove": [] },
+			"Sets": { "Add": ["DOM"], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
 			"Restricted": { "Add": [], "Remove": [] }
 		},
 		"Vintage": {
-			"Sets": { "Add": ["RIX"], "Remove": [] },
+			"Sets": { "Add": ["DOM"], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
 			"Restricted": { "Add": [], "Remove": [] }
 		}
