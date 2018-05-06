@@ -117,8 +117,8 @@
 		"Scarmaker": {
 			"FlipDuplicate": true
 		},
-		"Nissa, Steward of Elements" : {
-			"Loyalty":  "X"
+		"Nissa, Steward of Elements": {
+			"Loyalty": "X"
 		},
 		"B.F.M. (Big Furry Monster)": {
 			"Type": "The Biggest, Baddest, Nastiest,",
@@ -135,6 +135,11 @@
 	},
 
 	"Legality": {
+		"Dominaria Block": {
+			"Sets": { "Add": ["DOM"], "Remove": [] },
+			"Banned": { "Add": [], "Remove": [] },
+			"Restricted": { "Add": [], "Remove": [] }
+		},
 		"Ixalan Block": {
 			"Sets": { "Add": [], "Remove": [] },
 			"Banned": { "Add": [], "Remove": [] },
